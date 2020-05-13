@@ -1,0 +1,5 @@
+lib/app/modules/list/list_module.dart
+lib/app/modules/list/list_page.dart
+test/app/modules/list/list_page_test.dart
+lib/app/modules/list/list_controller.dart
+test/app/modules/list/list_controller_test.dart
