@@ -1,13 +1,3 @@
-<h1 align="center">
-    <img alt="" title="" src="./app_images/01.png" height="400" />  
-    <img alt="" title="" src="./app_images/02.png" height="400" />
-    <img alt="" title="" src="./app_images/03.png" height="400" />
-    <img alt="" title="" src="./app_images/04.png" height="400" />
-    <img alt="" title="" src="./app_images/05.png" height="400" />
-    <img alt="" title="" src="./app_images/06.png" height="400" />
-    <img alt="" title="" src="./app_images/07.png" height="400" />
-
-<h1>
 
 
 
@@ -40,6 +30,17 @@ ToDo Mobx
   <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
+
+<h1 align="center">
+    <img alt="" title="" src="./app_images/01.png" height="400" />  
+    <img alt="" title="" src="./app_images/02.png" height="400" />
+    <img alt="" title="" src="./app_images/03.png" height="400" />
+    <img alt="" title="" src="./app_images/04.png" height="400" />
+    <img alt="" title="" src="./app_images/05.png" height="400" />
+    <img alt="" title="" src="./app_images/06.png" height="400" />
+    <img alt="" title="" src="./app_images/07.png" height="400" />
+
+<h1>
 
 <br>
 
