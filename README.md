@@ -19,6 +19,17 @@ ToDo Mobx
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
+<h1 align="center">
+    <img alt="" title="" src="./app_images/01.png" height="400" />  
+    <img alt="" title="" src="./app_images/02.png" height="400" />
+    <img alt="" title="" src="./app_images/03.png" height="400" />
+    <img alt="" title="" src="./app_images/04.png" height="400" />
+    <img alt="" title="" src="./app_images/05.png" height="400" />
+    <img alt="" title="" src="./app_images/06.png" height="400" />
+    <img alt="" title="" src="./app_images/07.png" height="400" />
+
+<h1>
+
 <p align="center">
   <a href="#bookmark_tabs-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -45,19 +56,6 @@ Tecnologias ultilizadas no projeto:
 
 Aprender um pouco sobre modularização de codigo utilizando Slidy e Modular.
 
-## :iphone: Imagens do Projeto
-
-<h1 align="center">
-    <img alt="" title="" src="./app_images/01.png" height="400" />  
-    <img alt="" title="" src="./app_images/02.png" height="400" />
-    <img alt="" title="" src="./app_images/03.png" height="400" />
-    <img alt="" title="" src="./app_images/04.png" height="400" />
-    <img alt="" title="" src="./app_images/05.png" height="400" />
-    <img alt="" title="" src="./app_images/06.png" height="400" />
-    <img alt="" title="" src="./app_images/07.png" height="400" />
-    
-
-<h1>
 
 ## 🤔 Como contribuir
 
